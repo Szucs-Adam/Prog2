@@ -1,4 +1,4 @@
-# Prog2
-  
-# Platormer(  Super Mario jellegű)
+
+# __Platormer(  Super Mario jellegű)__
+
   Eddigi haladás: Karakter mozgás, kedetleges animációk.
