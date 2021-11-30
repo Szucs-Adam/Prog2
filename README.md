@@ -1,4 +1,4 @@
 
-# __Platormer(  Super Mario jellegű)__
+# __Platormer ( Chernobyl )__
 
   Eddigi haladás: Karakter mozgás, kedetleges animációk.
