@@ -19,7 +19,7 @@ készítette a játékhoz. A legtöbb időt a rajzolás vette igénybe bár a ko
 -Week 5: making a main menu scene with play/options/quit buttons, and started shooting script \
 -Week 6: health system for my player, also finished the shooting. \
 -Week 8: making collectible health packets and walljump\
--Week 9: learning Unity new controller system, make my game work with any gamepad (evem with the Nintendo Switch joycons). \
+-Week 9: learning Unity new controller system, make my game work with any gamepad (even with the Nintendo Switch joycons). \
 -Week 10: adding two enemies, game over scene,credits scene, instruction scene, and sound. \
 -Week 11: final bug fixes
 
