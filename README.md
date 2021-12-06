@@ -7,7 +7,7 @@ készítette a játékhoz. A legtöbb időt a rajzolás vette igénybe bár a ko
 
 # __Mit tanultam__ 
 
--A #C-p alapjait valamilyen szinten elsajátítottam. \ 
+-A #C-p alapjait valamilyen szinten elsajátítottam.\ 
 -A pixel Art ba betekintést nyertem.\
 -A játékfejlesztés egy izgalmas szakma rengeteg programozási problémával\.
 
