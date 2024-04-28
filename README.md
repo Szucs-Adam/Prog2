@@ -1,7 +1,7 @@
 
 # __Platormer ( Chernobyl )__ 
 
-A játékom egy Chernoby világában játszódik ahol mi vehetjük át a mutáns szerpét. A projecthez csakis saját rajzolású dolgokat 
+A játékom a Chernobyl világában játszódik ahol mi vehetjük át a mutáns szerpét. A projecthez csakis saját rajzolású dolgokat 
 használtam melyeket GIMP2 ben rajzoltam egér és billentyűzet segítségével. A zenét egyedül egy barátom (Gyirán Benedek) 
 készítette a játékhoz. A legtöbb időt a rajzolás vette igénybe bár a kontroller mozgás megoldása is nehézkes volt az első verzió teljes kukázása után.
 
